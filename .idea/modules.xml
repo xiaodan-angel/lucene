@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LuceneTest.iml" filepath="$PROJECT_DIR$/LuceneTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LuceneTest2/SolrJTest.iml" filepath="$PROJECT_DIR$/LuceneTest2/SolrJTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jingdong/jingdong.iml" filepath="$PROJECT_DIR$/../jingdong/jingdong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jingdong/jingdong_controller/jingdong_controller.iml" filepath="$PROJECT_DIR$/../jingdong/jingdong_controller/jingdong_controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jingdong/jingdong_dao/jingdong_dao.iml" filepath="$PROJECT_DIR$/../jingdong/jingdong_dao/jingdong_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jingdong/jingdong_domain/jingdong_domain.iml" filepath="$PROJECT_DIR$/../jingdong/jingdong_domain/jingdong_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jingdong/jingdong_service/jingdong_service.iml" filepath="$PROJECT_DIR$/../jingdong/jingdong_service/jingdong_service.iml" />
+    </modules>
+  </component>
+</project>
